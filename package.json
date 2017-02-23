@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "name": "@types/loopback-boot",
+  "dependencies": {
+    "@types/loopback": "*"
+  },
+  "description": "TypeScript definitions for loopback-boot",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "typeScriptVersion": "2.0"
+}
